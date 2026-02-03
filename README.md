@@ -1,39 +1,29 @@
-# Hi there, I'm Aaron! 👋
+# Hey, I'm Aaron! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer who loves building innovative solutions and exploring new technologies.
+Welcome to my GitHub profile! I'm a electrical engineering student, software developer and team leader.
 
-## 🚀 About Me
+## 🌵 About Me
 
-I'm a software developer with a keen interest in creating impactful applications. I enjoy solving complex problems and continuously learning new technologies to stay at the forefront of the industry.
+**Coming Soon:** 
 
-## 💻 Tech Stack
+## 🪄 My Skills
 
-- **Languages:** JavaScript, Python, Java, TypeScript
-- **Frontend:** React, Vue.js, HTML5, CSS3
-- **Backend:** Node.js, Express, Django
-- **Databases:** MongoDB, PostgreSQL, MySQL
-- **Tools & Platforms:** Git, Docker, AWS, CI/CD
-
-## 🔭 Current Focus
-
-- Building scalable web applications
-- Exploring cloud architecture and DevOps practices
-- Contributing to open-source projects
-- Learning and implementing best practices in software development
+- **Languages:** JavaScript, Python, SQL, TypeScript, C
+- **Coming Soon:** 
 
 ## 🌱 Learning Journey
 
-I'm constantly expanding my knowledge in:
-- Cloud-native technologies
+I'm always travelling down a new rabbit hole:
+- 
 - System design and architecture
 - Modern DevOps practices
 - Machine learning and AI integration
 
-## 📫 Get In Touch
+## 📫 Get In Touch or Find Out More
 
+- Website: [HeyAaron.me](https://heyaaron.me)
 - GitHub: [@HeyAaronL](https://github.com/HeyAaronL)
-- LinkedIn: Connect with me on [LinkedIn](https://linkedin.com/in/your-profile)
-- Email: Feel free to reach out!
+- LinkedIn: Connect with me on [LinkedIn](https://linkedin.com/in/heyaaronl)
 
 ## 📊 GitHub Stats
 
@@ -41,4 +31,4 @@ I'm constantly expanding my knowledge in:
 
 ---
 
-💡 *"Code is like humor. When you have to explain it, it's bad." – Cory House*
+"Anything can be learned if you are stubborn enough."
