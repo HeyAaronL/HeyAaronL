@@ -2,32 +2,27 @@
 
 Welcome to my GitHub profile! I'm a electrical engineering student, software developer and team leader.
 
+This portfolio is in development. Please visit again in the near future...
+
 ## 🌵 About Me
 
-**Coming Soon:** 
+**Coming Soon** 
 
 ## 🪄 My Skills
 
 - **Languages:** JavaScript, Python, SQL, TypeScript, C
-- **Coming Soon:** 
+- **Coming Soon** 
 
 ## 🌱 Learning Journey
 
 I'm always travelling down a new rabbit hole:
-- 
-- System design and architecture
-- Modern DevOps practices
-- Machine learning and AI integration
+- **Coming Soon** 
 
 ## 📫 Get In Touch or Find Out More
 
 - Website: [HeyAaron.me](https://heyaaron.me)
 - GitHub: [@HeyAaronL](https://github.com/HeyAaronL)
-- LinkedIn: Connect with me on [LinkedIn](https://linkedin.com/in/heyaaronl)
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HeyAaronL&show_icons=true&theme=radical)
+- LinkedIn: [Aaron Lintern](https://linkedin.com/in/heyaaronl)
 
 ---
 
